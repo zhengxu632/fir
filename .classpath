@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/com.sun.java.jdk7.win32.x86_1.7.0.u45"/>
+	<classpathentry kind="lib" path="D:/项目文件/杨华四位一体/四位一体H5/V网通加密jar/bcprov-jdk15-143.jar"/>
+	<classpathentry kind="lib" path="D:/项目文件/杨华四位一体/四位一体H5/V网通加密jar/local_policy.jar"/>
+	<classpathentry kind="lib" path="D:/项目文件/杨华四位一体/四位一体H5/V网通加密jar/US_export_policy.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
